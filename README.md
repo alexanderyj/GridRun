@@ -5,7 +5,7 @@
 * Click to shoot
 * Space Bar for dash
 
-![](GridRun_title.png)
+![](Gridrun_title.png)
 ![](GridRun_ingame.png)
 
 Character designs drawn by Catherine Jin, Clements High
