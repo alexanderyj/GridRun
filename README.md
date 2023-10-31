@@ -10,7 +10,7 @@
 
 Characters designed by Catherine Jin, Clements High
 
-Programmed by Alexajder Jun, Clements High
+Programmed by Alexander Jun, Clements High
 
 Developed as a Computer Science III Project in Spring 2022
 
